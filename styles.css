@@ -61,7 +61,7 @@ footer {
     background-color: #0000000e;
 }
 
-.spacer-row {
+.spacer-row td {
     height: 1.5em;
-    background-color: rgba(160, 207, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.315);
 }
