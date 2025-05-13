@@ -65,3 +65,9 @@ footer {
     height: 1.5em;
     background-color: rgba(0, 0, 0, 0.315);
 }
+
+.instructor-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
